@@ -1,0 +1,7 @@
+matplotlib
+keras
+tensorflow
+PIL
+numpy
+requests
+pandas
